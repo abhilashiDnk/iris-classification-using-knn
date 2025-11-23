@@ -93,3 +93,5 @@ Splitting data into training/testing
 Measuring accuracy
 
 Saving and loading machine learning models
+
+**Note: This is for educational purposes only.**
